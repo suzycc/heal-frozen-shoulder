@@ -15,8 +15,8 @@ title: How I healed my frozen shoulder
 If it works for you too, I'd appreciate it if you'd come back and </small> {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} 
 
 ## Methods
-
 ### Hanging
+
 
 ### Arms' workouts (weightless or with light weights)
 
@@ -24,11 +24,11 @@ If it works for you too, I'd appreciate it if you'd come back and </small> {% in
 
 Here are the tools I used.
 
-- [Dr John Kirsch's Hanging Protocol](https://bawejakunal.github.io/)
-- [Swedish Ladder](https://bawejakunal.github.io/)
-- [Tens machine](https://bawejakunal.github.io/)
-- [Recoverytherm Cube](https://case2111.github.io/)
-- [Peloton Barre Classes](https://www.karateca.org/)
+- [Dr John Kirsch's Hanging Protocol](https://www.kirschshoulder.com/)
+- [Swedish Ladder](https://www.northernfitness.ca/products/wallbars-14-bars?srsltid=AfmBOopihphTArbFVPg1t_Wv546zJ873tg7TniVcYswf_gjcEnXedV_5)
+- [Tens machine](https://www.therabody.com/us/en-us/powerdot-uno-blue.html)
+- [Recoverytherm Cube](https://www.therabody.com/us/en-us/recoverytherm-cube.html)
+- [Peloton Barre Classes](https://www.onepeloton.com/en-CA/app)
 
 ## Arresting the freezing process
 
