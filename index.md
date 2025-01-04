@@ -16,16 +16,19 @@ If it works for you too, I'd appreciate it if you'd come back and {% include but
 
 ## Methods
 
-- Hanging
-- Arms' workouts (weightless or with light weights)
+### Hanging
+
+### Arms' workouts (weightless or with light weights)
 
 ## Tools
 
 Here are the tools I used
 
-- [bawejakunal.github.io](https://bawejakunal.github.io/)
-- [case2111.github.io](https://case2111.github.io/)
-- [karateca.org](https://www.karateca.org/)
+- [Dr John Kirsch's Hanging Protocol](https://bawejakunal.github.io/)
+- [Swedish Ladder](https://bawejakunal.github.io/)
+- [Tens machine](https://bawejakunal.github.io/)
+- [Recoverytherm Cube](https://case2111.github.io/)
+- [Peloton Barre Classes](https://www.karateca.org/)
 
 ## Arresting the freezing process
 
