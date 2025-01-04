@@ -7,12 +7,12 @@ title: How I healed my frozen shoulder
 # excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
-How I healed my shoulder quickly and affordably, with minimal pain.
 
-{% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} 
 
 ### Disclaimer
-This is what worked for me. I am not a health professional and claim no deep understanding of the shoulder and how it works. I cannot promise that it will work for you. The most important thing to note is that my approach never caused pain greater than 2 or 3 out of 10.
+This is what worked for me. I am not a health professional and claim no particular understanding of the shoulder and how it works. I cannot promise that these methods will work for you. The most important thing to note is that my approach never caused pain greater than 2 or 3 out of 10.
+
+If it works for you too, I'd appreciate it if you'd come back and {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} 
 
 ## Methods
 
