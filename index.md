@@ -38,19 +38,22 @@ When I was in the freezing stage and dealing with zingers and aches, a friend su
 - It is a small, low-profile device—you can put it on and go about your day (or night, if you're using it to help you go back to sleep.)
 - The battery lasts quite a while between charges.
 
-[Buy in Canada](https://www.therabody.com/us/en-us/powerdot-uno-blue.html){:target="_blank" rel="noopener noreferrer"} | [Buy in USA](https://www.therabody.com/us/en-us/powerdot-uno-blue.html){:target="_blank" rel="noopener noreferrer"}
+[Buy in Canada](https://www.therabody.com/us/en-us/powerdot-uno-blue.html){:target="_blank" rel="noopener noreferrer"}
+[Buy in USA](https://www.therabody.com/us/en-us/powerdot-uno-blue.html){:target="_blank" rel="noopener noreferrer"}
 
 
 #### Recoverytherm Cube 
 You don't need this if you have ice packs and heat packs at home. However, my second shoulder started freezing when I was travelling and ice packs and heat packs were not viable options. This cube alternates between cold and hot and is rechargeable. The battery life is not great—you only get 3 x 20-minute cycles of cold/hot on a full charge, but if you have access to power (e.g. on an airplane or in a car), that's not such a big deal. I am convinced this thing helped me arrest the freezing process in my second shoulder.
 
-[Buy in Canada](https://www.therabody.com/ca/en-ca/recoverytherm-cube.html){:target="_blank" rel="noopener noreferrer"} | [Buy in USA](https://www.therabody.com/us/en-us/recoverytherm-cube.html){:target="_blank" rel="noopener noreferrer"}
+[Buy in Canada](https://www.therabody.com/ca/en-ca/recoverytherm-cube.html){:target="_blank" rel="noopener noreferrer"}
+[Buy in USA](https://www.therabody.com/us/en-us/recoverytherm-cube.html){:target="_blank" rel="noopener noreferrer"}
 
 
 #### Peloton Barre Classes
 I already had a Peloton membership, so this was not something I paid for just to fix my shoulder. I am sure there are plenty of free options that would work just as well. However, if you already have a Peloton membership, or if you have access to a free trial, I highly recommend Hannah Corbin's Barre classes. She has quite a few that have weightless arms sections that are no joke. When I started doing these, I could barely move my left arm. My "arm circles" on that side were hilariously small. But I just kept doing them as best I could in conjunction with the hanging. I think the hanging fixed my shoulder mobility, but doing these classes helped me regain strength in my shoulder and arm as I recovered my mobility.
 
-([Subscribe in Canada](https://www.onepeloton.com/en-CA/app){:target="_blank" rel="noopener noreferrer"} | [Subscribe in USA]([recoverytherm-cube.html](https://www.onepeloton.com/app)){:target="_blank" rel="noopener noreferrer"})
+[Subscribe in Canada](https://www.onepeloton.com/en-CA/app){:target="_blank" rel="noopener noreferrer"}
+[Subscribe in USA]([recoverytherm-cube.html](https://www.onepeloton.com/app)){:target="_blank" rel="noopener noreferrer"}
 
 
 ## Arresting the freezing process
