@@ -7,9 +7,12 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
-Heal your shoulder quickly and affordably, with minimal pain.
+How I healed my shoulder quickly and affordably, with minimal pain.
 
 {% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
+
+## Disclaimer
+This is what worked for me. I am not a health professional and claim no deep understanding of the shoulder and how it works. I cannot promise that it will work for you. The most important thing to note is that my approach never caused pain greater than 2 or 3 out of 10.
 
 ## Methods
 
