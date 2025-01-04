@@ -33,7 +33,7 @@ You don't need a Swedish ladder, but it makes things a lot easier and if, like m
 [The NOHRD Swedish Ladder that I used](https://www.northernfitness.ca/products/wallbars-14-bars?srsltid=AfmBOopihphTArbFVPg1t_Wv546zJ873tg7TniVcYswf_gjcEnXedV_5){:target="_blank" rel="noopener noreferrer"}
 
 #### Tens Machine 
-When I was in the freezing stage and dealing with zingers and aches, a friend suggested I try her Tens machine to help with the pain. It quickly became my new favourite thing and after a couple of weeks I realized that I did not want to give it back to my friend. It really took the edge off the achiness, particularly on those nights when the pain was bad enough that I would have otherwise had trouble going back to sleep. There may be better options out there but I like this one because:
+When I was in the freezing stage and dealing with zingers and aches, a friend suggested I try her Tens machine to help with the pain. It quickly became my new favourite thing and after a couple of weeks I realized that I did not want to give it back. It really took the edge off the achiness, particularly on those nights when the pain was bad enough that I would have otherwise had trouble going back to sleep. There may be better options out there but I like this one because:
 - It connects wirelessly to my phone.
 - It is a small, low-profile device—you can put it on and go about your day (or night, if you're using it to help you go back to sleep.)
 - The battery lasts quite a while between charges.
