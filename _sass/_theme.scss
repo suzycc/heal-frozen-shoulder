@@ -16,6 +16,7 @@ body {
 
 
 // Header, feature and footer
+
 .header,
 .footer {
   .nav {
@@ -36,7 +37,7 @@ body {
 }
 
 .header .nav {
-  display: none;
+  display: flex;
   flex-direction: column-reverse;
   align-items: flex-end;
   justify-content: flex-end;
@@ -102,6 +103,10 @@ body {
   }
 }
 
+.header {
+  display: none;
+}
+}
 
 // Pagination nav
 .nav--paginator {
