@@ -1,7 +1,7 @@
 ---
-title: How I healed my frozen shoulder
+# title: How I healed my frozen shoulder
 feature_text: |
-  ## Heal Your Frozen Shoulder
+  ## How I healed my frozen shoulder
   Quickly, painlessly, and affordably
 feature_image: "https://picsum.photos/1300/400?image=989"
 # excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
@@ -24,6 +24,7 @@ These are the tools I used to heal my shoulders.
 
 #### Dr John Kirsch's Book: Shoulder Pain? The Solution & Prevention
 Everywhere I looked, I kept reading that it would take 18 months to 2 years for my shoulder to heal. I didn't like that prospect, so I kept looking until I found someone offering a faster timeline—[Dr John Kirsch](https://www.kirschshoulder.com/){:target="_blank" rel="noopener noreferrer"}
+
 [Buy the book](https://www.amazon.com/Shoulder-Solution-Prevention-Revised-Expanded/dp/1589096428/ref=sr_1_1?keywords=shoulder%20pain%20solution%20and%20prevention%205th%20edition&qid=1573129382&s=books&sr=1-1){:target="_blank" rel="noopener noreferrer"}
 
 #### Swedish Ladder
