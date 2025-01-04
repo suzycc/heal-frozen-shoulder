@@ -6,10 +6,11 @@
   {% assign feature_image = collectiondata.feature_image %}
 {% endif %}
 
-{% if feature_text or feature_image %}
-  <div class="feature"{% if feature_image %} style="background-image: url({{ feature_image }})"{% endif %}>
-    <div class="container  typeset">
+{% if feature_text %}
+  <div class="feature" style="background-color: #f68140;">
+    <div class="container typeset">
       {{ feature_text | markdownify }}
     </div>
   </div>
 {% endif %}
+
