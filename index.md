@@ -14,15 +14,17 @@ Quickly, painlessly, and affordably
 - early August 2022: start of freezing stage (decreasing mobility and quite a bit of pain)
 - early October 2022: start of frozen stage (very limited mobility but no pain)
 - mid-January 2023: start of daily hanging
-- late February 2023: functionally healed
+- early March 2023: functionally healed
 
-## Methods
+It's important to note that my dates are fuzzy because I wasn't keeping track, and if a physio had tested my range of motion in early March 2023, I doubt I would have tested at 100%, but I was close enough that I didn't notice any deficit in the course of my daily life.
+
+## My Methods
 ### Hanging
-I know that the idea of hanging probably seems ludicrous when you can barely lift your arm. But it is possible! A Swedish ladder is ideal because you can climb up to the hanging bar and hook your bad arm on, but you can use a chair or stepladder to do the same thing with any hanging bar. You will likely need a chair or ladder beneath you to hold much of your weight initially anyway. It took a couple of weeks before I was able to take my feet off a lower bar on the Swedish ladder. My first hang probably didn't even last for one full second!
+I know that the idea of hanging probably seems ludicrous when you can barely lift your arm. But it is possible! A Swedish ladder is ideal because you can climb up to the hanging bar and hook your bad arm on, but you can use a chair or stepladder to do the same thing with any hanging bar. You will likely need a chair or ladder beneath you to hold much of your weight initially anyway. It took me a couple of weeks before I was able to take my feet off one of the lower bars on the Swedish ladder. My first hang probably didn't even last for one full second, but once I could it, it only took me a couple of weeks to get to a point where I could hang for 30 seconds at a time.
 
 ### Arm strength workouts
 ---
-## Tools
+## My Tools
 
 These are the tools I used to heal my shoulders.
 
