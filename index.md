@@ -7,9 +7,10 @@ Quickly, painlessly, and affordably
 # excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
- {:.bordered-block}
+ <div class="bordered-block">
 ###### Disclaimer
 <small>This is what worked for me. I am not a health professional and claim no particular understanding of the shoulder and how it works. I cannot promise that these methods will work for you. The most important thing to note is that my approach never caused pain greater than a 2 or 3 out of 10. If these methods work for you too, feel free to come back and </small> {% include button.html text="<small>Buy me a coffee</small> ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} 
+</div>
 
 ## My Timeline
 - early August 2022: start of freezing stage (decreasing mobility and quite a bit of pain—especially those zingers which dropped me to the floor)
