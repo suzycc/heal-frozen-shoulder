@@ -12,10 +12,10 @@ Quickly, painlessly, and affordably
 </div>
 
 ## My Timeline
-- early August 2022: start of freezing stage (decreasing mobility and quite a bit of pain—especially those zingers which dropped me to the floor)
-- early October 2022: start of frozen stage (very limited mobility but no pain)
-- mid-January 2023: start of daily hanging
-- early March 2023: functionally healed
+- Early August 2022: start of freezing stage (decreasing mobility and quite a bit of pain—especially those zingers which dropped me to the floor)
+- Early October 2022: start of frozen stage (very limited mobility but no pain)
+- Mid-January 2023: start of daily hanging
+- Early March 2023: functionally healed
 
 It's important to note that my dates are fuzzy because I wasn't keeping track, and if a physiotherapist had tested my range of motion in early March 2023, I doubt I would have tested at 100%, but I was close enough that I no longer noticed any deficit in the course of my daily life.
 
@@ -29,7 +29,10 @@ I tried to hang 4-7 times/day with a 1-minute rest between hangs. At most, that 
 
 I still do two 30-second hangs most days of the week because I'd rather spend two minutes a day looking after my shoulders than ever have to deal with a frozen shoulder again.
 
-### 2. Arm strength workouts
+### 2. Arm/shoulder strengthening
+Prior to my shoulder freezing, I had already been in the habit of doing regular barre workouts using the Peloton app. I continued doing these classes after I started hanging. The arms sections of these classes took no more than 5 minutes and I didn't use weights. Initially, I was barely able to do anything with my left arm, but I did what I could and I noticed that the more I hung, the more I could do.
+
+In additional to barre classes, I also did yoga classes using the Peloton app. Again, there was a lot that I couldn't do initially, but I did what I could and it was only a matter of weeks before I could do nearly everything in the classes.
 ---
 ## My Tools
 
