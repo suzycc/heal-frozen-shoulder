@@ -37,6 +37,7 @@ Prior to my shoulder freezing, I had already been in the habit of doing regular 
 In addition to barre classes, I also did yoga classes using the Peloton app. Again, there was a lot that I couldn't do initially, but I did what I could and it was only a matter of weeks before I could do nearly everything in the classes.
 
 ---
+
 ## My Tools
 
 These are the tools I used to heal my shoulders. I have no connection to any of these people or companies other than having purchased their products for my own personal use.
