@@ -63,6 +63,12 @@ When I was in the freezing stage and dealing with zingers and aches, a friend su
 - It is a small, low-profile device—you can put it on and go about your day (or night, if you're using it to help you go back to sleep.)
 - The battery lasts quite a while between charges.
 
+My physiotherapist told me:
+- Not to stick the Tens machine pads on my chest and back at the same time (it's not a good idea to be passing an electrical current through your body near your heart.)
+- I could use the Tens machine as much as I wanted/needed and I wasn't going to do myself any harm.
+- Setting the intensity to a mild buzzing is thought to have a pain relief effect only. It is not likely to help with healing.
+- Setting the intensity to a level where you can see your muscle twitching may having a positive impact on healing.
+
 [Buy in Canada](https://www.therabody.com/ca/en-ca/powerdot-uno-red.html){:target="_blank" rel="noopener noreferrer"}<br>
 [Buy in USA](https://www.therabody.com/us/en-us/powerdot-uno-blue.html){:target="_blank" rel="noopener noreferrer"}
 
