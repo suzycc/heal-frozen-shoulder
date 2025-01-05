@@ -11,7 +11,7 @@ Quickly, painlessly, and affordably
 <small>This is what worked for me. I am not a health professional and claim no particular understanding of the shoulder and how it works. I cannot promise that these methods will work for you. The most important thing to note is that my approach never caused pain greater than a 2 or 3 out of 10. If these methods work for you too, feel free to come back and </small> {% include button.html text="<small>Buy me a coffee</small> ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} 
 
 ## My Timeline
-- early August 2022: start of freezing stage (decreasing mobility and quite a bit of pain)
+- early August 2022: start of freezing stage (decreasing mobility and quite a bit of pain—especially those zingers which dropped me to the floor)
 - early October 2022: start of frozen stage (very limited mobility but no pain)
 - mid-January 2023: start of daily hanging
 - early March 2023: functionally healed
@@ -19,7 +19,7 @@ Quickly, painlessly, and affordably
 It's important to note that my dates are fuzzy because I wasn't keeping track, and if a physiotherapist had tested my range of motion in early March 2023, I doubt I would have tested at 100%, but I was close enough that I no longer noticed any deficit in the course of my daily life.
 
 ## My Methods
-### Hanging
+### 1. Hanging
 {% include figure.html image="https://www.nohrd.com/media/wallbars/design/wallbars-main.jpg" caption="A Swedish ladder" width="300" height="800" %}
 
 I know that the idea of hanging probably seems ludicrous when you can barely lift your arm. But it is possible! A Swedish ladder is ideal because you can climb up to the hanging bar and hook your bad arm on, but you can use a chair or stepladder to do the same thing with any hanging bar. You will likely need a chair or ladder beneath you to hold much of your weight initially anyway. It took me a couple of weeks before I was able to take my feet off one of the lower bars on the Swedish ladder. My first hang probably didn't even last for one full second, but once I could it, it only took me a couple of weeks to get to a point where I could hang for 30 seconds at a time.
@@ -28,7 +28,7 @@ I tried to hang 4-7 times/day with a 1-minute rest between hangs. At most, that 
 
 I still do two 30-second hangs most days of the week because I'd rather spend two minutes a day looking after my shoulders than ever have to deal with a frozen shoulder again.
 
-### Arm strength workouts
+### 2. Arm strength workouts
 ---
 ## My Tools
 
