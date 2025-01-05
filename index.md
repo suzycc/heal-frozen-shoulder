@@ -27,7 +27,7 @@ I know that the idea of hanging probably seems ludicrous when you can barely lif
 These are the tools I used to heal my shoulders.
 
 #### Dr John Kirsch's Book: Shoulder Pain? The Solution & Prevention
-Everywhere I looked, I kept reading that it would take 18 months to 2 years for my shoulder to heal. I didn't like that prospect, so I kept looking until I found someone offering a faster timeline—[Dr John Kirsch](https://www.kirschshoulder.com/){:target="_blank" rel="noopener noreferrer"}
+Everywhere I looked, I kept reading that it would take 18 months to 2 years for my shoulder to heal. I didn't like that prospect, so I kept looking until I found someone offering a faster timeline—[Dr John Kirsch](https://www.kirschshoulder.com/){:target="_blank" rel="noopener noreferrer"}.
 
 [Buy the book](https://www.amazon.com/Shoulder-Solution-Prevention-Revised-Expanded/dp/1589096428/ref=sr_1_1?keywords=shoulder%20pain%20solution%20and%20prevention%205th%20edition&qid=1573129382&s=books&sr=1-1){:target="_blank" rel="noopener noreferrer"}
 
