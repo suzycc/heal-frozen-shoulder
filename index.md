@@ -15,7 +15,7 @@ Quickly, painlessly, and affordably
 ### Left Shoulder
 - Early August 2022: start of freezing stage (Decreasing mobility and quite a bit of pain—especially those zingers which dropped me to the floor.)
 - Early October 2022: start of frozen stage (Very limited mobility but no pain. I moved into this stage approximately 2 weeks after starting to use the Tens machine. I have no idea if there was a connection between the use of the Tens machine and the end of the painful freezing stage, or if I am just lucky that my freezing stage was much shorter than most.)
-- Months of not doing anything in particular to heal my shoulder—I was no longer in pain and life got in the way. I did some occasional hanging with a very sketchy set-up before I finally got around to installing a Swedish ladder just before going away for a month in mid-December.
+- October 2022-January 2023: months of not doing anything in particular to heal my shoulder—I was no longer in pain and life got in the way. I did some occasional hanging with a very sketchy set-up before I finally got around to installing a Swedish ladder just before going away for a month in mid-December.
 - Mid-January 2023: start of daily hanging
 - Early March 2023: functionally healed
 
