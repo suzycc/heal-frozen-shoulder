@@ -20,6 +20,8 @@ It's important to note that my dates are fuzzy because I wasn't keeping track, a
 
 ## My Methods
 ### Hanging
+{% include figure.html image="https://www.nohrd.com/media/wallbars/design/wallbars-main.jpg" caption="A Swedish ladder" width="300" height="800" %}
+
 I know that the idea of hanging probably seems ludicrous when you can barely lift your arm. But it is possible! A Swedish ladder is ideal because you can climb up to the hanging bar and hook your bad arm on, but you can use a chair or stepladder to do the same thing with any hanging bar. You will likely need a chair or ladder beneath you to hold much of your weight initially anyway. It took me a couple of weeks before I was able to take my feet off one of the lower bars on the Swedish ladder. My first hang probably didn't even last for one full second, but once I could it, it only took me a couple of weeks to get to a point where I could hang for 30 seconds at a time.
 
 I tried to hang 4-7 times/day with a 1-minute rest between hangs. At most, that added up to an investment of 8.5 minutes a day. On really busy days, I only did 2 hangs, which took a total of 2 minutes (2 x 30-second hangs, with a 1-minute rest between.)
