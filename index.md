@@ -1,7 +1,7 @@
 ---
 # title: How I healed my frozen shoulder
 # feature_image: "https://picsum.photos/1300/400?image=989"
-feature_text: How I healed my frozen shoulder<br>
+feature_text: How I healed my frozen shoulder
 Quickly, painlessly, and affordably
 
 # excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
