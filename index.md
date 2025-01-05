@@ -54,7 +54,7 @@ When I was in the freezing stage and dealing with zingers and aches, a friend su
 - It is a small, low-profile device—you can put it on and go about your day (or night, if you're using it to help you go back to sleep.)
 - The battery lasts quite a while between charges.
 
-[Buy in Canada](https://www.therabody.com/us/en-us/powerdot-uno-blue.html){:target="_blank" rel="noopener noreferrer"}<br>
+[Buy in Canada](https://www.therabody.com/ca/en-ca/powerdot-uno-red.html){:target="_blank" rel="noopener noreferrer"}<br>
 [Buy in USA](https://www.therabody.com/us/en-us/powerdot-uno-blue.html){:target="_blank" rel="noopener noreferrer"}
 
 
@@ -65,11 +65,11 @@ You don't need this if you have ice packs and heat packs at home. However, my se
 [Buy in USA](https://www.therabody.com/us/en-us/recoverytherm-cube.html){:target="_blank" rel="noopener noreferrer"}
 
 
-#### Peloton Barre Classes
+#### Peloton Barre and Yoga Classes
 I already had a Peloton membership, so this was not something I paid for just to fix my shoulder. I am sure there are plenty of free options that would work just as well. However, if you already have a Peloton membership, or if you have access to a free trial, I highly recommend Hannah Corbin's Barre classes. She has quite a few that have weightless arms sections that are no joke. When I started doing these, I could barely move my left arm. My "arm circles" on that side were hilariously small. But I just kept doing them as best I could in conjunction with the hanging. I think the hanging fixed my shoulder mobility, but doing these classes helped me regain strength in my shoulder and arm as I recovered my mobility.
 
 [Subscribe in Canada](https://www.onepeloton.com/en-CA/app){:target="_blank" rel="noopener noreferrer"}<br>
-[Subscribe in USA]([recoverytherm-cube.html](https://www.onepeloton.com/app)){:target="_blank" rel="noopener noreferrer"}
+[Subscribe in USA](https://www.onepeloton.com/app){:target="_blank" rel="noopener noreferrer"}
 
 ---
 
