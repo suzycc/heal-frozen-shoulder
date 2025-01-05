@@ -1,4 +1,4 @@
-{% assign feature_text = page.feature_text %}
+<!-- {% assign feature_text = page.feature_text %}
 {% assign feature_image = page.feature_image %}
 {% if page.collectionpage %}
   {% assign collectiondata = site.collections | where: "label", page.collectionpage | first %}
@@ -17,11 +17,11 @@
       {{ feature_text | markdownify }}
     </div>
   </div>
-{% endif %} 
+{% endif %}  -->
 
 
 
-<!-- {% assign feature_text = page.feature_text %}
+{% assign feature_text = page.feature_text %}
 {% assign feature_image = page.feature_image %}
 {% if page.collectionpage %}
   {% assign collectiondata = site.collections | where: "label", page.collectionpage | first %}
@@ -34,10 +34,10 @@
        {% if feature_image %}
          style="background-image: url({{ feature_image }});"
        {% else %}
-         style="height: 20vh; background-color: #097969; color: white; display: flex; align-items: center; justify-content: center; text-align: center;"
+         style="height: 20vh; background-color: #264653; color: white; display: flex; align-items: center; justify-content: center; text-align: center;"
        {% endif %}>
     <div class="container typeset">
       {{ feature_text | markdownify }}
     </div>
   </div>
-{% endif %} -->
+{% endif %}
