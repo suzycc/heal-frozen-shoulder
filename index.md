@@ -11,10 +11,10 @@ Quickly, painlessly, and affordably
 <small>This is what worked for me. I am not a health professional and claim no particular understanding of the shoulder and how it works. I cannot promise that these methods will work for you. The most important thing to note is that my approach never caused pain greater than a 2 or 3 out of 10. If these methods work for you too, feel free to come back and </small> {% include button.html text="<small>Buy me a coffee</small> ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} 
 
 ## My Timeline
-early August 2022: start of freezing stage (decreasing mobility and quite a bit of pain)
-early October 2022: start of frozen stage (very limited mobility but no pain)
-mid-January 2023: start of daily hanging
-late February 2023: functionally healed
+- early August 2022: start of freezing stage (decreasing mobility and quite a bit of pain)
+- early October 2022: start of frozen stage (very limited mobility but no pain)
+- mid-January 2023: start of daily hanging
+- late February 2023: functionally healed
 
 ## Methods
 ### Hanging
