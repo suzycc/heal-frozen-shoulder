@@ -38,7 +38,7 @@ In additional to barre classes, I also did yoga classes using the Peloton app. A
 ---
 ## My Tools
 
-These are the tools I used to heal my shoulders.
+These are the tools I used to heal my shoulders. I have no connection to any of these people or companies other than having purchased their products for my own personal use.
 
 #### Dr John Kirsch's Book: Shoulder Pain? The Solution & Prevention
 Everywhere I looked, I kept reading that it would take 18 months to 2 years for my shoulder to heal. I didn't like that prospect, so I kept looking until I found someone offering a faster timeline—[Dr John Kirsch](https://www.kirschshoulder.com/){:target="_blank" rel="noopener noreferrer"}.
@@ -75,9 +75,30 @@ I already had a Peloton membership, so this was not something I paid for just to
 
 ---
 
-## Arresting the freezing process
+## Things That Didn't Make a Noticeable Difference
+I have access to extended medical benefits and have had success with physiotherapy, accupuncture, and massage previously, so they were the first things I tried. I feel lucky that my family doctor said to me early on that "Your shoulder will heal on its own regardless of what you do, in 18-24 months. Everyone likes to please their physiotherapist but it won't actually make a difference to the healing process and it will cost a lot of money." 
 
+#### Physiotherapy
+It was a physiotherapist who first diagnosed my frozen shoulder, but treatement was on the painful side and the exercises I was supposed to do at home were time consuming and very painful. I saw no positive result from physiotherapy.
+
+#### Acupuncture
+Acupuncture felt good but made no noticeable difference.
+
+#### Massage
+Massage felt amazing, but made no noticeable difference.
+
+#### Occupational Therapy
+I had never tried this before but a friend of a friend said it had helped with their frozen shoulder, so I went for one session. It was not painful or particularly unpleasant, but it wasn't relaxing and it didn't make any noticeable difference. 
+
+#### Hot Springs
+I happened to be near some hot springs early in the freezing stage. It felt good to relax in the hot springs but it made no noticeable difference to my shoulder.
 ---
 
-## Healing a frozen shoulder
+## Other things That Have Worked for People I Know
+- Someone I know tried hydrodilation and it healed her shoulder. Hydrodilation is the only other "cure" I have heard of firsthand.
+- Someone else I know found some pain relief from cortisone shots, but they didn't actually heal her shoulder.
+
+## Arresting the freezing process
+
+
 
