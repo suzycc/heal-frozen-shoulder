@@ -15,7 +15,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 
 
 ### Arm strength workouts
-</hr>
+---
 ## Tools
 
 These are the tools I used to heal my shoulders.
