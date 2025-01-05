@@ -34,7 +34,8 @@ I still do two 30-second hangs most days of the week because I'd rather spend tw
 ### 2. Arm/shoulder strengthening
 Prior to my shoulder freezing, I had already been in the habit of doing regular barre workouts using the Peloton app. I continued doing these classes after I started hanging. The arms sections of these classes took no more than 5 minutes and I didn't use weights. Initially, I was barely able to do anything with my left arm, but I did what I could and I noticed that the more I hung, the more I could do.
 
-In additional to barre classes, I also did yoga classes using the Peloton app. Again, there was a lot that I couldn't do initially, but I did what I could and it was only a matter of weeks before I could do nearly everything in the classes.
+In addition to barre classes, I also did yoga classes using the Peloton app. Again, there was a lot that I couldn't do initially, but I did what I could and it was only a matter of weeks before I could do nearly everything in the classes.
+
 ---
 ## My Tools
 
