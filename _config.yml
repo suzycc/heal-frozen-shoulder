@@ -126,11 +126,13 @@ navigation_header:
 # - title: Elements
 #   url: /elements/
 - title: Methods
-  url: /blog/
+  url: (#methods)
 - title: Tools
-  url: /categories/
-- title: Search
-  url: /search/
+  url: (#tools)
+  - title: Arresting the Freezing Process
+  url: (#arresting-the-freezing-process)
+# - title: Search
+#   url: /search/
 # - title: Fork Alembic
 #   url: https://github.com/daviddarnes/alembic
 
