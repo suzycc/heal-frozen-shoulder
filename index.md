@@ -21,6 +21,8 @@ Quickly, painlessly, and affordably
 
 It's important to note that my dates are fuzzy because I wasn't keeping track, and if a physiotherapist had tested my range of motion in early March 2023, I doubt I would have tested at 100%, but I was close enough that I no longer noticed any deficit in the course of my daily life.
 
+---
+
 ## My Methods
 ### 1. Hanging
 {% include figure.html image="https://www.nohrd.com/media/wallbars/design/wallbars-main.jpg" caption="A Swedish ladder" alt="A Swedish ladder" %}
