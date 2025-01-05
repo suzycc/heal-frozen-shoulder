@@ -8,7 +8,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 ---
 
 ###### Disclaimer
-<small>This is what worked for me. I am not a health professional and claim no particular understanding of the shoulder and how it works. I cannot promise that these methods will work for you. The most important thing to note is that my approach never caused pain greater than a 2 or 3 out of 10. If these methods work for you too, feel free to come back and </small> {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} 
+<small>This is what worked for me. I am not a health professional and claim no particular understanding of the shoulder and how it works. I cannot promise that these methods will work for you. The most important thing to note is that my approach never caused pain greater than a 2 or 3 out of 10. If these methods work for you too, feel free to come back and </small> {% include button.html text="<small>Buy me a coffee</small> ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} 
 
 ## Methods
 ### Hanging
@@ -30,7 +30,7 @@ You don't need a Swedish ladder, but it makes things a lot easier and if, like m
 
 [The NOHRD Swedish Ladder that I used](https://www.northernfitness.ca/products/wallbars-14-bars?srsltid=AfmBOopihphTArbFVPg1t_Wv546zJ873tg7TniVcYswf_gjcEnXedV_5){:target="_blank" rel="noopener noreferrer"}
 
-#### Tens Machine 
+#### Powerdot Tens Machine 
 When I was in the freezing stage and dealing with zingers and aches, a friend suggested I try her Tens machine to help with the pain. It quickly became my new favourite thing and after a couple of weeks I realized that I did not want to give it back. It really took the edge off the achiness, particularly on those nights when the pain was bad enough that I would have otherwise had trouble going back to sleep. There may be better options out there but I like this one because:
 - It connects wirelessly to my phone.
 - It is a small, low-profile device—you can put it on and go about your day (or night, if you're using it to help you go back to sleep.)
