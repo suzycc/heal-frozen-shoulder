@@ -55,7 +55,7 @@ When I was in the freezing stage and dealing with zingers and aches, a friend su
 
 
 #### Recoverytherm Cube 
-You don't need this if you have ice packs and heat packs at home. However, my second shoulder started freezing when I was travelling and ice packs and heat packs were not viable options. This cube alternates between cold and hot and is rechargeable. The battery life is not great—you only get 3 x 20-minute cycles of cold/hot on a full charge, but if you have access to power (e.g. on an airplane or in a car), that's not such a big deal. I am convinced this thing helped me arrest the freezing process in my second shoulder.
+You don't need this if you have ice packs and heat packs at home. However, my second shoulder started freezing when I was travelling and ice packs and heat packs were not viable options. This cube alternates between cold and hot and is rechargeable. The battery life is not great—you only get 3 x 20-minute cycles of cold/hot on a full charge, but if you have access to power (e.g. on an airplane or in a car), that's not such a big deal. I am convinced this cube helped me arrest the freezing process in my second shoulder.
 
 [Buy in Canada](https://www.therabody.com/ca/en-ca/recoverytherm-cube.html){:target="_blank" rel="noopener noreferrer"}<br>
 [Buy in USA](https://www.therabody.com/us/en-us/recoverytherm-cube.html){:target="_blank" rel="noopener noreferrer"}
