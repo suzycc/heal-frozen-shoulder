@@ -23,7 +23,7 @@ Quickly, painlessly, and affordably
 It's important to note that my dates are fuzzy because I wasn't keeping track, and if a physiotherapist had tested my range of motion in early March 2023, I doubt I would have tested at 100%, but I was close enough that I no longer noticed any deficit in the course of my daily life.
 
 ###Right Shoulder
-In Summer 2024, my other shoulder suddenly started freezing. Life had been busy and I had not done my 2 daily hangs for about a month. I came home from a long walk and my shoulder was completely fine. After dinner, I noticed it was sore, and by the middle of the night it was waking me up whenever I moved. By the morning, I was in agony and had lost subtantial mobility. See [Arresting the Freezing Process](#arresting-the-freezing-process/) below for how I managed to stop the process in its tracks.
+In Summer 2024, my other shoulder suddenly started freezing. Life had been busy and I had not done my 2 daily hangs for about a month. I came home from a long walk and my shoulder was completely fine. After dinner, I noticed it was sore, and by the middle of the night it was waking me up whenever I moved. By the morning, I was in agony and had lost subtantial mobility. See [Arresting the Freezing Process](#arresting-the-freezing-process) below for how I managed to stop the process in its tracks.
 
 ---
 
