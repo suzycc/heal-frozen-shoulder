@@ -12,7 +12,7 @@ feature_text: How I healed my frozen shoulder
 
 ## Methods
 ### Hanging
-
+I know that the idea of hanging probably seems ludicrous when you can barely lift your arm. But it is possible! A Swedish ladder is ideal because you can climb up to the hanging bar and hook your bad arm on, but you can use a chair or stepladder to do the same thing with any hanging bar. You will likely need a chair or ladder beneath you to hold much of your weight initially anyway. It took a couple of weeks before I was able to take my feet off a lower bar on the Swedish ladder. My first hang probably didn't even last for one full second!
 
 ### Arm strength workouts
 ---
@@ -53,8 +53,11 @@ I already had a Peloton membership, so this was not something I paid for just to
 [Subscribe in Canada](https://www.onepeloton.com/en-CA/app){:target="_blank" rel="noopener noreferrer"}<br>
 [Subscribe in USA]([recoverytherm-cube.html](https://www.onepeloton.com/app)){:target="_blank" rel="noopener noreferrer"}
 
+---
 
 ## Arresting the freezing process
+
+---
 
 ## Healing a frozen shoulder
 
