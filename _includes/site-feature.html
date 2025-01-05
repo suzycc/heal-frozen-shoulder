@@ -37,7 +37,7 @@
          style="height: 20vh; background-color: teal; color: white; display: flex; align-items: center; justify-content: center; text-align: center;"
        {% endif %}>
     <div class="container typeset">
-      <h1>{{ feature_text | markdownify }}</h1>
+      {{ feature_text | markdownify }}
     </div>
   </div>
 {% endif %}
