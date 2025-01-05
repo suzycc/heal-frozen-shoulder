@@ -10,6 +10,12 @@ feature_text: How I healed my frozen shoulder
 ###### Disclaimer
 <small>This is what worked for me. I am not a health professional and claim no particular understanding of the shoulder and how it works. I cannot promise that these methods will work for you. The most important thing to note is that my approach never caused pain greater than a 2 or 3 out of 10. If these methods work for you too, feel free to come back and </small> {% include button.html text="<small>Buy me a coffee</small> ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} 
 
+## My Timeline
+early August 2022: start of freezing stage (decreasing mobility and quite a bit of pain)
+early October 2022: start of frozen stage (very limited mobility but no pain)
+mid-January 2023: start of daily hanging
+late February 2023: functionally healed
+
 ## Methods
 ### Hanging
 I know that the idea of hanging probably seems ludicrous when you can barely lift your arm. But it is possible! A Swedish ladder is ideal because you can climb up to the hanging bar and hook your bad arm on, but you can use a chair or stepladder to do the same thing with any hanging bar. You will likely need a chair or ladder beneath you to hold much of your weight initially anyway. It took a couple of weeks before I was able to take my feet off a lower bar on the Swedish ladder. My first hang probably didn't even last for one full second!
