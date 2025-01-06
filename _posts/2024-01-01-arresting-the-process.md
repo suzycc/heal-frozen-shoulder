@@ -18,7 +18,7 @@ With the [Tens Machine](#powerdot-tens-machine)  , I really tried to target the 
 
 By the time we arrived at our detination on Saturday afternoon, my shoulder was a lot less painful but my mobility was still restricted. I had access to a hanging bar, so I did four 30-second hangs every day, and continued using the [Recoverytherm Cube](#recoverytherm-cube) (several times/day) and the [Tens Machine](#powerdot-tens-machine)  (maybe once/day). By the following Friday, I could swim freestyle, which had been impossible earlier in the week (I had tried!)
 
-We returned home at the end of the week, and I continued hanging daily, while still using the Cube and the [Tens Machine](#powerdot-tens-machine)  as needed to help with soreness, and within a couple of weeks of getting home, my shoulder felt like it was back to 100%.
+I returned home at the end of the week, and I continued hanging daily, while still using the Cube and the [Tens Machine](#powerdot-tens-machine)  as needed to help with soreness, and within a couple of weeks of getting home, my shoulder felt like it was back to 100%.
 
 I suspect that hanging alone could have arrested the process, but 1. I didn't have easy access to a hanging bar for the first two days and 2. the [Recoverytherm Cube](#recoverytherm-cube) and the [Tens Machine](#powerdot-tens-machine)  helped a lot with the pain.
 
