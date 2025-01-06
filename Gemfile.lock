@@ -64,6 +64,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.2.0)
   jekyll-paginate
+  public_suffix (~> 5.1.1)
 
 BUNDLED WITH
    2.4.22
