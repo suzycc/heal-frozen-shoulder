@@ -4,6 +4,7 @@ title: Things That Didn't Make a Noticeable Difference
 ---
 
 ## Things That Didn't Make a Noticeable Difference
+<a id="no-noticeable-difference"></a>
 I have access to extended medical benefits and have had success with physiotherapy, accupuncture, and massage previously, so they were the first things I tried. I feel lucky that my family doctor said to me early on that "Your shoulder will heal on its own regardless of what you do, in 18-24 months. Everyone likes to please their physiotherapist but it won't actually make a difference to the healing process and it will cost a lot of money." 
 
 #### Physiotherapy
