@@ -41,5 +41,6 @@
     if (target.tagName === 'A' && target.closest('#sidebar')) {
       checkbox.checked = false; // Close the sidebar
     }
+    console.log('Clicked target:', target);
   }, false);
 })(document);
