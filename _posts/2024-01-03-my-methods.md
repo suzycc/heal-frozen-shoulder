@@ -7,6 +7,7 @@ title: My Methods
 <a id="my-methods"></a>
 ### 1. Hanging
 [![A Swedish ladder](https://www.nohrd.com/media/wallbars/design/wallbars-main.jpg "A Swedish ladder")](https://www.nohrd.com/ca/wallbars/)
+{% include figure.html image="https://www.nohrd.com/media/wallbars/design/wallbars-main.jpg" caption="A Swedish ladder" alt="A Swedish ladder" %}
 
 I know that the idea of hanging seems ludicrous when you can barely lift your arm, but it is possible! I could not lift my arm to a 90 degree angle in front of me, let alone get it up and over my head. The trick is that you have to get your arm up to a bar and then lower into a hanging position, holding most of your body weight in your legs somehow.
 
