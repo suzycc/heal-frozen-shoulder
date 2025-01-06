@@ -5,7 +5,6 @@ title: My Methods
 
 ## My Methods
 ### 1. Hanging
-{% include figure.html image="https://www.nohrd.com/media/wallbars/design/wallbars-main.jpg" caption="A Swedish ladder" alt="A Swedish ladder" %}
 
 I know that the idea of hanging probably seems ludicrous when you can barely lift your arm. But it is possible! A Swedish ladder is ideal because you can climb up to the hanging bar and hook your bad arm on, but you can use a chair or stepladder to do the same thing with any hanging bar. You will likely need a chair or ladder beneath you to hold much of your weight initially anyway. It took me a couple of weeks before I was able to take my feet off one of the lower bars on the Swedish ladder. My first hang probably didn't even last for one full second, but once I could it, it only took me a couple of weeks to get to a point where I could hang for 30 seconds at a time.
 
