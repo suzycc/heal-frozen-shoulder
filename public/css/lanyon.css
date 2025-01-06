@@ -560,6 +560,7 @@ a.pagination-item:hover {
 }
 
 button {
+  display: inline-block;
   padding: 1rem;
   background-color: #f68140;
   color: white;

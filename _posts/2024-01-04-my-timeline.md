@@ -4,6 +4,7 @@ title: My Timeline
 ---
 
 ## My Timeline
+<a id="my-timeline"></a>
 ### Left Shoulder
 - Early August 2022: start of freezing stage (Decreasing mobility and quite a bit of pain—especially those zingers which dropped me to the floor.)
 - Early October 2022: start of frozen stage (Very limited mobility but no pain. I moved into this stage approximately 2 weeks after starting to use the Tens machine. I have no idea if there was a connection between the use of the Tens machine and the end of the painful freezing stage, or if I am just lucky that my freezing stage was much shorter than most.)
