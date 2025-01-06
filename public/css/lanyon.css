@@ -561,8 +561,6 @@ a.pagination-item:hover {
 
 button {
   padding: 1rem;
-}
-
-.button a {
+  background-color: #f68140;
   color: white;
 }
