@@ -6,9 +6,9 @@ title: My Methods
 ## My Methods
 <a id="my-methods"></a>
 ### 1. Hanging
-![A Swedish ladder](https://www.nohrd.com/media/wallbars/design/wallbars-main.jpg "A Swedish ladder")
+[![A Swedish ladder](https://www.nohrd.com/media/wallbars/design/wallbars-main.jpg "A Swedish ladder")](https://www.nohrd.com/ca/wallbars/)
 
-I know that the idea of hanging probably seems ludicrous when you can barely lift your arm, but it is possible! I could not lift my arm to a 90 degree angle in front of me, let alone get it up and over my head. The trick is that you have to get your arm up to a bar and then lower into a hanging position, holding most of your body weight in your legs somehow.
+I know that the idea of hanging seems ludicrous when you can barely lift your arm, but it is possible! I could not lift my arm to a 90 degree angle in front of me, let alone get it up and over my head. The trick is that you have to get your arm up to a bar and then lower into a hanging position, holding most of your body weight in your legs somehow.
 
 A Swedish ladder is ideal because you can climb up to the hanging bar and hook your bad arm on, but you can use a chair or stepladder to do the same thing with any hanging bar. You will need a chair or ladder beneath you to hold much of your weight initially anyway. It took me a couple of weeks before I was able to take my feet off one of the lower bars on the Swedish ladder. My first unsupported hang probably didn't even last for one full second, but once I could it, it only took me a couple of weeks to get to a point where I could hang for 30 seconds at a time.
 
