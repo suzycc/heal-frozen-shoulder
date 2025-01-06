@@ -559,12 +559,9 @@ a.pagination-item:hover {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
 }
 
-button {
+a.button {
   display: inline-block;
   padding: 0.5rem;
   background-color: #f68140;
-}
-
-button.a {
   color: white;
 }
