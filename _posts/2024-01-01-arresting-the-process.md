@@ -6,7 +6,7 @@ title: Arresting the Freezing Process
 ## Arresting the Freezing Process
 <a id="arresting-the-process"></a>
 
-In Summer 2024, I came home from a long walk late one Thursday afternoon and my shoulders were completely fine. After dinner, I noticed my right shoulder was sore, and by the middle of the night it was waking me up whenever I moved. By the morning, I was in agony and had lost subtantial mobility.
+In Summer 2024, I came home from a long walk late one Thursday afternoon and my shoulders were completely fine. After dinner, I noticed my right shoulder was sore, and by the middle of the night it was waking me up whenever I moved. By the morning, I was in agony and had lost substantial mobility.
 
 The timing was not great—we were heading off on a trip and would be in the car for fours that day, followed by another four hours the following day, with no easy access to a hanging bar.
 
