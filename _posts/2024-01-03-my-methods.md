@@ -18,6 +18,8 @@ I tried to hang 4-7 times/day with a 1-minute rest between hangs. At most, that 
 
 I still do two 30-second hangs most days of the week because I'd rather spend two minutes a day looking after my shoulders than ever have to deal with a frozen shoulder again.
 
+N.B.: If you've ever dislocated your shoulder, you should probably talk to a healthcare provider about whether or not hanging is safe for you.
+
 ### 2. Arm/shoulder strengthening
 Prior to my shoulder freezing, I had already been in the habit of doing regular barre workouts using the Peloton app. I continued doing these classes after I started hanging. The arms sections of these classes took no more than 5 minutes and I didn't use weights. Initially, I was barely able to do anything with my left arm, but I did what I could and I noticed that the more I hung, the more I could do.
 
