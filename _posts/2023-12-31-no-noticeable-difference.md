@@ -8,7 +8,7 @@ title: Things That Made No Difference
 I have had good experiences with other issues from physiotherapy, accupuncture, and massage previously, so they were the first things I tried. None of them made a noticeable difference and I feel lucky that my family doctor said to me early on, "Your shoulder will heal on its own in 18-24 months, regardless of what you do. Everyone likes to do believe that their various healthcare providers can help them but it won't actually make a difference to the healing process and it will end up costing a lot of money for the same result." 
 
 ### Physiotherapy
-It was a physiotherapist who first diagnosed my frozen shoulder, but treatement was on the painful side and the exercises I was supposed to do at home were time consuming and very painful. I saw no positive result from physiotherapy.
+It was a physiotherapist who first diagnosed my frozen shoulder, but treatment was on the painful side and the exercises I was supposed to do at home were time consuming and very painful. I saw no positive result from physiotherapy.
 
 ### Acupuncture
 Acupuncture felt good but made no noticeable difference.
